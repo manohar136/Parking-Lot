@@ -1,0 +1,6 @@
+{
+  "name": "ParkGrid - Smart Parking Lot Manager",
+  "description": "Interactive parking lot management system with real-time vehicle tracking, slot allocation by vehicle type and size, automated billing, and tech stack insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
